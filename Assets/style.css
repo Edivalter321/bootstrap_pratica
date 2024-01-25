@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  padding: 1vh;
+  margin: 0;
+  background-color: #fff;
+}
+.container-fluid {
+  background-color: #fff;
+}
+
+.container-fluid .navbar-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  font-weight: bolder;
+  color: black;
+}
+.navbar-nav li a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  font-weight: bolder;
+  color: #8565b9;
+}
+.nav-item a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  font-weight: bolder;
+  color: #8565b9;
+}
+#carouselExampleCaptions {
+  margin: auto;
+}
+#carouselExampleCaptions .carousel-item {
+}
