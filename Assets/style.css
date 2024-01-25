@@ -22,6 +22,7 @@ body {
   font-weight: 900;
   font-weight: bolder;
   color: #8565b9;
+  padding: 2vh;
 }
 .nav-item a {
   text-decoration: none;
@@ -29,10 +30,40 @@ body {
   font-size: 16px;
   font-weight: 900;
   font-weight: bolder;
-  color: #8565b9;
 }
 #carouselExampleCaptions {
+  padding-top: 2vh;
   margin: auto;
+  width: 600px;
+  height: 300px;
 }
 #carouselExampleCaptions .carousel-item {
+}
+.caixa {
+  display: flex;
+  justify-content: center;
+  gap: 10vh;
+}
+.card {
+  margin-top: 8rem;
+}
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+  padding-bottom: 2vh;
+}
+.card-body {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: black;
+  text-align: justify;
+}
+.card-link {
+  text-decoration: none;
+  padding-left: 4vh;
 }
