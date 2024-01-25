@@ -67,3 +67,32 @@ body {
   text-decoration: none;
   padding-left: 4vh;
 }
+.body {
+  margin-top: 10vh;
+  width: 100%;
+  height: 30vh;
+  background-color: rgb(43, 42, 42);
+  text-align: center;
+}
+.body .texts h4 {
+  padding-top: 30px;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+}
+.body .texts ul {
+  padding-top: 20px;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  color: #fff;
+  margin-left: -4.5vh;
+  margin-bottom: 2vh;
+}
+.body .texts hr {
+  color: #fff;
+}
